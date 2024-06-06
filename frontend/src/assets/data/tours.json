@@ -1,0 +1,120 @@
+[
+  {
+    "title": "London Delights",
+    "city": "London,UK",
+  
+    "address": "Somewhere in London",
+    "distance": 300,
+    "price": 55700,
+    "maxGroupSize": 10,
+    "desc": "3 Nights|4 Days",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img01.jpg",
+    "featured": true
+  },
+  {
+    "title": "Beautiful Bali Package",
+    "city": "Bali,Indonesiai",
+    "address": "Somewhere in Indonesia",
+    "distance": 400,
+    "price": 66734,
+    "maxGroupSize": 8,
+    "desc": "6 Nights|7 Days",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img02.jpg",
+    "featured": true
+  },
+  {
+    "title": "Joyful Singapore",
+    "city": "Singapore",
+    "address": "Somewhere in Thailand",
+    "distance": 500,
+    "price": 46000,
+    "maxGroupSize": 8,
+    "desc": "3 Nights|4 Days",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "Dubai With Abu Dhabi",
+    "city": "UAE",
+    "address": "Somewhere in Thailand",
+    "distance": 500,
+    "price": 56400,
+    "maxGroupSize": 8,
+    "desc": "5 Nights|6 Days",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img04.jpg",
+    "featured": true
+  },
+  {
+    "title": "Kashmir Holiday Package",
+    "city": "Kashmir,India",
+    "address": "Somewhere in Indonesia",
+    "distance": 500,
+    "price": 48963,
+    "maxGroupSize": 8,
+    "desc": "6 Nights|7 Days",
+    "reviews": [],
+    "photo": "/tour-images/tour-img05.jpg",
+    "featured": true
+  },
+  {
+    "title": "Royal Udaipur",
+    "city": "Udaipur,India",
+    "address": "Somewhere in Japan",
+    "distance": 500,
+    "price": 15065,
+    "maxGroupSize": 8,
+    "desc": "3 Nights|4 Days",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img06.jpg",
+    "featured": true
+  },
+  {
+    "title": "Kerala Paradise",
+    "city": "Kerala,India",
+    "address": "Somewhere in France",
+    "distance": 500,
+    "price": 32275,
+    "maxGroupSize": 8,
+    "desc": "4 Night|5 Days",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img07.jpg",
+    "featured": true
+  },
+  {
+    "title": "Sasan Gir",
+    "city": "Gir,India",
+    "address": "Somewhere in Thailand",
+    "distance": 500,
+    "price": 27536,
+    "maxGroupSize": 8,
+    "desc": "4 Nights|5 Days",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img09.jpg",
+    "featured": true
+  },
+  {
+    "title": "Delhi and Agra",
+    "city": "New Delhi,India",
+    "address": "Somewhere in Sylhet",
+    "distance": 100,
+    "price": 14436,
+    "maxGroupSize": 5,
+    "desc": "4 Nights|5 Days",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img08.jpg",
+    "featured": false
+  }
+  
+]
